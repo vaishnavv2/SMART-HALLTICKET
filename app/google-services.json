@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "457332464463",
+    "project_id": "hall-pass-446fe",
+    "storage_bucket": "hall-pass-446fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457332464463:android:117bf7c4ab7ab59519433a",
+        "android_client_info": {
+          "package_name": "com.example.studentidentifier"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "457332464463-faebfculjafvt796di4mf71etpgqvbti.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcgqhVFMj7iZ7KkdhZPCcXFcJVdfAh3aU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "457332464463-faebfculjafvt796di4mf71etpgqvbti.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

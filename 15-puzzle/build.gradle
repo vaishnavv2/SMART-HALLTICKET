@@ -1,0 +1,15 @@
+apply plugin: 'com.android.application'
+android{
+    namespace'com.example.STUDENTIDENTIFDIER'
+}
+
+    sourceSets {
+        main {
+            java.srcDirs = ['src']
+
+
+
+        }
+    }
+
+
